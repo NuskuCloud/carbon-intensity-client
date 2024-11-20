@@ -1,8 +1,8 @@
 package main
 
 import (
-	"carbon-intensity-api/pkg/carbon_intensity"
 	"fmt"
+	"github.com/nuskucloud/carbon-intensity-client/pkg/carbon_intensity"
 	"log"
 	"time"
 )
